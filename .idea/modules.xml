@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/doubleFounder.iml" filepath="$PROJECT_DIR$/doubleFounder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dividedAverage.iml" filepath="$PROJECT_DIR$/dividedAverage.iml" />
     </modules>
   </component>
 </project>
